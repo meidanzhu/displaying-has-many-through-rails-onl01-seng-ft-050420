@@ -1,7 +1,7 @@
 
 # Displaying Has Many Through Rails
 
-## Objectives
+### Objectives
 
 1. Construct a bi-directional has_many through.
 2. Query for associations via the belongs_to, has_many, and has_many through associations.
@@ -29,7 +29,7 @@ Things get slightly more complicated when we talk about the relationship between
     <td> post_id </td>
     <td> user_id </td>
   </tr>
-  
+
   <tr>
     <td> 1 </td>
     <td> "I loved this post!" </td>
